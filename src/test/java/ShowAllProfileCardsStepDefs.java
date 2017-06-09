@@ -37,7 +37,7 @@ public class ShowAllProfileCardsStepDefs {
     @Given("^I want to access the main page$")
     public void iWantToAccessTheMainPage() throws Throwable {
         //driver.get("http://profilecards-myproject.192.168.99.100.nip.io/website/index.html");
-        driver.get("http://profile-cards-app-sq-project.7e14.starter-us-west-2.openshiftapps.com/website/index.html");
+        driver.get("http://profile-cards-app-sq-project.7e14.starter-us-west-2.openshiftapps.com/index.html");
     }
 
     @When("^main page is reached$")
@@ -97,7 +97,7 @@ public class ShowAllProfileCardsStepDefs {
     @Given("^\"([^\"]*)\" has information in all existing fields$")
     public void hasInformationInAllExistingFields(String memberName) throws Throwable {
         //driver.get("http://profilecards-myproject.192.168.99.100.nip.io/website/index.html");
-        driver.get("http://profile-cards-app-sq-project.7e14.starter-us-west-2.openshiftapps.com/website/index.html");
+        driver.get("http://profile-cards-app-sq-project.7e14.starter-us-west-2.openshiftapps.com/index.html");
     }
 
     @Then("^I see all profile cards with information about \"([^\"]*)\"$")

@@ -36,7 +36,7 @@ public class SaveProfileCardsConfigurationStepDefs {
     @Given("^I navigate to the form$")
     public void iNavigateToTheForm() throws Throwable {
         //driver.get("http://profilecards-myproject.192.168.99.100.nip.io/website/configure-profiles.html");
-        driver.get("http://profile-cards-app-sq-project.7e14.starter-us-west-2.openshiftapps.com/website/configure-profiles.html");
+        driver.get("http://profile-cards-app-sq-project.7e14.starter-us-west-2.openshiftapps.com/configure-profiles.html");
     }
 
     @Given("^the \"([^\"]*)\" is checked$")
