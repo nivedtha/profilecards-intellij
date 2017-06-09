@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50cb8618-96b4-4909-8c87-abc9a7d43d91" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/ShowProfileCardsStepDefs.class" afterPath="$PROJECT_DIR$/target/test-classes/ShowProfileCardsStepDefs.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/ShowAllProfileCardsStepDefs.class" afterPath="$PROJECT_DIR$/target/test-classes/ShowAllProfileCardsStepDefs.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/VerifySocialNetworkStepDefs.class" afterPath="$PROJECT_DIR$/target/test-classes/VerifySocialNetworkStepDefs.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/test-report/formatter.js" afterPath="$PROJECT_DIR$/reports/test-report/formatter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/test-report/index.html" afterPath="$PROJECT_DIR$/reports/test-report/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/test-report/jquery-1.8.2.min.js" afterPath="$PROJECT_DIR$/reports/test-report/jquery-1.8.2.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/test-report/report.js" afterPath="$PROJECT_DIR$/reports/test-report/report.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/test-report/style.css" afterPath="$PROJECT_DIR$/reports/test-report/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/ShowAllProfileCardsStepDefs.java" afterPath="$PROJECT_DIR$/src/test/java/ShowAllProfileCardsStepDefs.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/VerifySocialNetworkStepDefs.java" afterPath="$PROJECT_DIR$/src/test/java/VerifySocialNetworkStepDefs.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/ShowProfileCardsStepDefs.java" afterPath="$PROJECT_DIR$/src/test/java/ShowProfileCardsStepDefs.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,8 +21,8 @@
       <file leaf-file-name="ShowAllProfileCardsStepDefs.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ShowAllProfileCardsStepDefs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="73" column="90" lean-forward="false" selection-start-line="73" selection-start-column="90" selection-end-line="73" selection-end-column="90" />
+            <state relative-caret-position="63">
+              <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -43,7 +38,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VerifySocialNetworkStepDefs.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="VerifySocialNetworkStepDefs.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/VerifySocialNetworkStepDefs.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="546">
@@ -53,13 +48,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShowProfileCardsStepDefs.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ShowProfileCardDetails.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/ShowProfileCardDetails.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1428">
+              <caret line="68" column="28" lean-forward="false" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SaveProfileCardsConfigurationStepDefs.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SaveProfileCardsConfigurationStepDefs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShowProfileCardsStepDefs.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ShowProfileCardsStepDefs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="28" column="87" lean-forward="true" selection-start-line="28" selection-start-column="87" selection-end-line="28" selection-end-column="87" />
+            <state relative-caret-position="189">
+              <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
               <folding>
-                <marker date="1497002461982" expanded="true" signature="1869:3002" ph="{...}" />
+                <marker date="1497007922182" expanded="true" signature="1844:2977" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -92,9 +107,9 @@
         <option value="$PROJECT_DIR$/src/test/resources/ShowAllProfileCards.feature" />
         <option value="$PROJECT_DIR$/src/test/java/SaveProfileCardsConfigurationStepDefs.java" />
         <option value="$PROJECT_DIR$/src/test/resources/VerifySocialNetworkButton.feature" />
-        <option value="$PROJECT_DIR$/src/test/java/ShowProfileCardsStepDefs.java" />
         <option value="$PROJECT_DIR$/src/test/java/ShowAllProfileCardsStepDefs.java" />
         <option value="$PROJECT_DIR$/src/test/java/VerifySocialNetworkStepDefs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ShowProfileCardsStepDefs.java" />
       </list>
     </option>
   </component>
@@ -614,8 +629,16 @@
       <workItem from="1496984546318" duration="901000" />
       <workItem from="1496997340838" duration="57000" />
       <workItem from="1497002498230" duration="178000" />
-      <workItem from="1497005011522" duration="2257000" />
+      <workItem from="1497005011522" duration="2898000" />
     </task>
+    <task id="LOCAL-00001" summary="All test pass in order to see jenkins building correctly&#10;check ShowAllProfileCards and VerifySocialNetWorks StepDefs commented lines">
+      <created>1497007385281</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1497007385282</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -651,7 +674,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18242000" />
+    <option name="totallyTimeSpent" value="18883000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="69" y="-9" width="1860" height="1098" extended-state="6" />
@@ -694,6 +717,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="All test pass in order to see jenkins building correctly&#10;check ShowAllProfileCards and VerifySocialNetWorks StepDefs commented lines" />
+    <option name="LAST_COMMIT_MESSAGE" value="All test pass in order to see jenkins building correctly&#10;check ShowAllProfileCards and VerifySocialNetWorks StepDefs commented lines" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -729,7 +756,7 @@
         <state relative-caret-position="609">
           <caret line="45" column="8" lean-forward="true" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="105" />
           <folding>
-            <marker date="1497002461982" expanded="true" signature="1869:3002" ph="{...}" />
+            <marker date="1497007922182" expanded="true" signature="1844:2977" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -770,7 +797,7 @@
         <state relative-caret-position="147">
           <caret line="23" column="36" lean-forward="false" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
           <folding>
-            <marker date="1497002461982" expanded="true" signature="1869:3002" ph="{...}" />
+            <marker date="1497007922182" expanded="true" signature="1844:2977" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -795,7 +822,7 @@
         <state relative-caret-position="147">
           <caret line="23" column="36" lean-forward="false" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
           <folding>
-            <marker date="1497002461982" expanded="true" signature="1869:3002" ph="{...}" />
+            <marker date="1497007922182" expanded="true" signature="1844:2977" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -820,7 +847,7 @@
         <state relative-caret-position="483">
           <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
           <folding>
-            <marker date="1497002461982" expanded="true" signature="1869:3002" ph="{...}" />
+            <marker date="1497007922182" expanded="true" signature="1844:2977" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -881,7 +908,7 @@
         <state relative-caret-position="1932">
           <caret line="108" column="0" lean-forward="true" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
           <folding>
-            <marker date="1497002461982" expanded="true" signature="1869:3002" ph="{...}" />
+            <marker date="1497007922182" expanded="true" signature="1844:2977" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -927,7 +954,7 @@
         <state relative-caret-position="136">
           <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
-            <marker date="1497002461982" expanded="true" signature="1869:3002" ph="{...}" />
+            <marker date="1497007922182" expanded="true" signature="1844:2977" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -966,7 +993,7 @@
         <state relative-caret-position="136">
           <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
-            <marker date="1497002461982" expanded="true" signature="1869:3002" ph="{...}" />
+            <marker date="1497007922182" expanded="true" signature="1844:2977" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -975,13 +1002,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="55" column="51" lean-forward="false" selection-start-line="55" selection-start-column="51" selection-end-line="55" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/ShowProfileCardDetails.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="68" column="28" lean-forward="false" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -1004,13 +1024,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SaveProfileCardsConfigurationStepDefs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -1044,20 +1057,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ShowProfileCardsStepDefs.java">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/ShowProfileCardDetails.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="28" column="87" lean-forward="true" selection-start-line="28" selection-start-column="87" selection-end-line="28" selection-end-column="87" />
-          <folding>
-            <marker date="1497002461982" expanded="true" signature="1869:3002" ph="{...}" />
-          </folding>
+        <state relative-caret-position="1428">
+          <caret line="68" column="28" lean-forward="false" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SaveProfileCardsConfigurationStepDefs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ShowAllProfileCardsStepDefs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="73" column="90" lean-forward="false" selection-start-line="73" selection-start-column="90" selection-end-line="73" selection-end-column="90" />
+        <state relative-caret-position="63">
+          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -1067,6 +1086,16 @@
         <state relative-caret-position="546">
           <caret line="35" column="12" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="35" selection-end-column="12" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ShowProfileCardsStepDefs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+          <folding>
+            <marker date="1497007922182" expanded="true" signature="1844:2977" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
