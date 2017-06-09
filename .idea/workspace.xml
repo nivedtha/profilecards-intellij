@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50cb8618-96b4-4909-8c87-abc9a7d43d91" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/SaveProfileCardsConfigurationStepDefs.class" afterPath="$PROJECT_DIR$/target/test-classes/SaveProfileCardsConfigurationStepDefs.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/ShowAllProfileCardsStepDefs.class" afterPath="$PROJECT_DIR$/target/test-classes/ShowAllProfileCardsStepDefs.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/ShowProfileCardsStepDefs.class" afterPath="$PROJECT_DIR$/target/test-classes/ShowProfileCardsStepDefs.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/VerifySocialNetworkStepDefs.class" afterPath="$PROJECT_DIR$/target/test-classes/VerifySocialNetworkStepDefs.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/test-report/report.js" afterPath="$PROJECT_DIR$/reports/test-report/report.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/SaveProfileCardsConfigurationStepDefs.java" afterPath="$PROJECT_DIR$/src/test/java/SaveProfileCardsConfigurationStepDefs.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/VerifySocialNetworkStepDefs.java" afterPath="$PROJECT_DIR$/src/test/java/VerifySocialNetworkStepDefs.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/ShowAllProfileCardsStepDefs.java" afterPath="$PROJECT_DIR$/src/test/java/ShowAllProfileCardsStepDefs.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,12 +30,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="SaveProfileCardsConfigurationStepDefs.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ShowAllProfileCardsStepDefs.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ShowAllProfileCardsStepDefs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="62" column="8" lean-forward="false" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SaveProfileCardsConfigurationStepDefs.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/SaveProfileCardsConfigurationStepDefs.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="669">
               <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShowProfileCardsStepDefs.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ShowProfileCardsStepDefs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="501">
+              <caret line="53" column="21" lean-forward="true" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+              <folding>
+                <marker date="1497012717369" expanded="true" signature="1898:3031" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,10 +119,10 @@
         <option value="$PROJECT_DIR$/src/test/resources/ShowAllProfileCards.feature" />
         <option value="$PROJECT_DIR$/src/test/resources/VerifySocialNetworkButton.feature" />
         <option value="$PROJECT_DIR$/src/test/java/ShowProfileCardsStepDefs.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ShowAllProfileCardsStepDefs.java" />
         <option value="$PROJECT_DIR$/src/test/resources/SaveProfileCardsConfiguration.feature" />
         <option value="$PROJECT_DIR$/src/test/java/VerifySocialNetworkStepDefs.java" />
         <option value="$PROJECT_DIR$/src/test/java/SaveProfileCardsConfigurationStepDefs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ShowAllProfileCardsStepDefs.java" />
       </list>
     </option>
   </component>
@@ -625,7 +643,7 @@
       <workItem from="1496984546318" duration="901000" />
       <workItem from="1496997340838" duration="57000" />
       <workItem from="1497002498230" duration="178000" />
-      <workItem from="1497005011522" duration="6284000" />
+      <workItem from="1497005011522" duration="7158000" />
     </task>
     <task id="LOCAL-00001" summary="All test pass in order to see jenkins building correctly&#10;check ShowAllProfileCards and VerifySocialNetWorks StepDefs commented lines">
       <created>1497007385281</created>
@@ -648,16 +666,17 @@
       <option name="project" value="LOCAL" />
       <updated>1497013525184</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Jenkins should run all green on this build">
+      <created>1497014098885</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1497014098885</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CucumberRunner - 2017.06.09 at 12h 07m 57s.xml">
-      <configuration name="CucumberRunner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CucumberRunner - 2017.06.09 at 12h 11m 06s.xml">
-      <configuration name="CucumberRunner" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CucumberRunner - 2017.06.09 at 12h 12m 02s.xml">
       <configuration name="CucumberRunner" configurationId="JUnit" />
     </history-entry>
@@ -682,9 +701,15 @@
     <history-entry file="CucumberRunner - 2017.06.09 at 14h 14m 27s.xml">
       <configuration name="CucumberRunner" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CucumberRunner - 2017.06.09 at 14h 38m 28s.xml">
+      <configuration name="CucumberRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CucumberRunner - 2017.06.09 at 14h 40m 06s.xml">
+      <configuration name="CucumberRunner" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22269000" />
+    <option name="totallyTimeSpent" value="23143000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -697,7 +722,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="69" y="-9" width="1860" height="1098" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -740,7 +764,8 @@
     <MESSAGE value="All test pass in order to see jenkins building correctly&#10;check ShowAllProfileCards and VerifySocialNetWorks StepDefs commented lines" />
     <MESSAGE value="static on ShowProfileCardsStepDefs updated" />
     <MESSAGE value="now using HtmlUnitDriver on all StepDefs" />
-    <option name="LAST_COMMIT_MESSAGE" value="now using HtmlUnitDriver on all StepDefs" />
+    <MESSAGE value="Jenkins should run all green on this build" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jenkins should run all green on this build" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1049,24 +1074,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ShowProfileCardsStepDefs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16">
-          <caret line="33" column="39" lean-forward="false" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="39" />
-          <folding>
-            <marker date="1497012717369" expanded="true" signature="1898:3031" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ShowAllProfileCardsStepDefs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16">
-          <caret line="34" column="39" lean-forward="false" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CucumberRunner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -1119,6 +1126,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="669">
           <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ShowProfileCardsStepDefs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="53" column="21" lean-forward="true" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+          <folding>
+            <marker date="1497012717369" expanded="true" signature="1898:3031" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ShowAllProfileCardsStepDefs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="62" column="8" lean-forward="false" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
           <folding />
         </state>
       </provider>

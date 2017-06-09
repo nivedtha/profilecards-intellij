@@ -60,31 +60,31 @@ public class ShowAllProfileCardsStepDefs {
         // /html/body/div/div[2]/div[2]/p
 
         WebElement webElement = driver.findElement(By.xpath("//div[1]/div[1]/p"));
-        //new WebDriverWait(driver, 3).until(ExpectedConditions.textToBePresentInElementValue(webElement, student));
+        new WebDriverWait(driver, 3).until(ExpectedConditions.textToBePresentInElementValue(webElement, student));
         String srcFileCarlos = driver.findElement(By.xpath("//div[1]/div[1]/img")).getAttribute("src");
         assertEquals(baseURL + "imgs/carlos200.png", srcFileCarlos);
         assertEquals("Student", webElement.getText());
         assertEquals("Carlos Ferreira", driver.findElement(By.linkText("Carlos Ferreira")).getText());
 
         webElement = driver.findElement(By.xpath("//div[1]/div[2]/p"));
-        //new WebDriverWait(driver, 3).until(ExpectedConditions.textToBePresentInElementValue(webElement, student));
+        new WebDriverWait(driver, 3).until(ExpectedConditions.textToBePresentInElementValue(webElement, student));
         String srcFileJoao = driver.findElement(By.xpath("//div[1]/div[2]/img")).getAttribute("src");
         assertEquals(baseURL + "imgs/foto2_200x200.jpg", srcFileJoao);
-//        assertEquals("Student", webElement.getText());
+        assertEquals("Student", webElement.getText());
         assertEquals("João Silva", driver.findElement(By.linkText("João Silva")).getText());
 
         webElement = driver.findElement(By.xpath("//div[2]/div[1]/p"));
-        //new WebDriverWait(driver, 3).until(ExpectedConditions.textToBePresentInElementValue(webElement, student));
+        new WebDriverWait(driver, 3).until(ExpectedConditions.textToBePresentInElementValue(webElement, student));
         String srcFileNivi = driver.findElement(By.xpath("//div[2]/div[1]/img")).getAttribute("src");
         assertEquals(baseURL + "imgs/niv.jpg", srcFileNivi);
-//        assertEquals("Student", webElement.getText());
+        assertEquals("Student", webElement.getText());
         assertEquals("Nivedhita Gowthaman", driver.findElement(By.linkText("Nivedhita Gowthaman")).getText());
 
         webElement = driver.findElement(By.xpath("//div[2]/div[2]/p"));
-        //new WebDriverWait(driver, 3).until(ExpectedConditions.textToBePresentInElementValue(webElement, student));
+        new WebDriverWait(driver, 3).until(ExpectedConditions.textToBePresentInElementValue(webElement, student));
         String srcFileTiago = driver.findElement(By.xpath("//div[2]/div[2]/img")).getAttribute("src");
         assertEquals(baseURL + "imgs/foto4_200x200.png", srcFileTiago);
-//        assertEquals("Student", webElement.getText());
+        assertEquals("Student", webElement.getText());
         assertEquals("Tiago Monteiro", driver.findElement(By.linkText("Tiago Monteiro")).getText());
 
 
@@ -114,19 +114,19 @@ public class ShowAllProfileCardsStepDefs {
             String srcFileJoao = driver.findElement(By.xpath("//div[1]/div[2]/img")).getAttribute("src");
             assertEquals(website + "imgs/foto2_200x200.jpg", srcFileJoao);
             // /html/body/div/div[1]/div[2]/p
-//            assertEquals("Student", driver.findElement(By.xpath("//div/div[1]/div[2]/p")).getText());
+            assertEquals("Student", driver.findElement(By.xpath("//div/div[1]/div[2]/p")).getText());
             assertEquals("João Silva", driver.findElement(By.linkText("João Silva")).getText());
         } else if (memberName.startsWith("Nivedhita")) {
             String srcFileNivi = driver.findElement(By.xpath("//div[2]/div[1]/img")).getAttribute("src");
             assertEquals("imgs/niv.jpg", srcFileNivi);
             // /html/body/div/div[2]/div[1]/p
-//            assertEquals("Student", driver.findElement(By.xpath("//div/div[2]/div[1]/p")).getText());
+            assertEquals("Student", driver.findElement(By.xpath("//div/div[2]/div[1]/p")).getText());
             assertEquals("Nivedhita Gowthaman", driver.findElement(By.linkText("Nivedhita Gowthaman")).getText());
         } else if (memberName.startsWith("Tiago")) {
             String srcFileTiago = driver.findElement(By.xpath("//div[2]/div[2]/img")).getAttribute("src");
             assertEquals(website + "imgs/foto4_200x200.png", srcFileTiago);
             // /html/body/div/div[2]/div[2]/p
-//            assertEquals("Student", driver.findElement(By.xpath("//div/div[2]/div[2]/p")).getText());
+            assertEquals("Student", driver.findElement(By.xpath("//div/div[2]/div[2]/p")).getText());
             assertEquals("Tiago Monteiro", driver.findElement(By.linkText("Tiago Monteiro")).getText());
         }
     }
