@@ -28,9 +28,10 @@ public class VerifySocialNetworkStepDefs {
         }
     }
 
+    //THIS STEP SHOULD BE MADE MANUALLY
     @When("^I click social network button$")
     public void iClickSocialNetworkButton() throws Throwable {
-        System.out.println("-------------------!!!!!!!!!!!!");
+        //System.out.println("-------------------!!!!!!!!!!!!");
 
         // ("//div/div[2]/div[2]/a[1]")
 //        WebElement we = driver.findElement(By.xpath("//a[contains(@href,'tiago.monteiro')"));

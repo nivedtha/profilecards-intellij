@@ -22,7 +22,7 @@ formatter.match({
   "location": "SaveProfileCardsConfigurationStepDefs.iNavigateToTheForm()"
 });
 formatter.result({
-  "duration": 6073314100,
+  "duration": 3446265635,
   "status": "passed"
 });
 formatter.scenario({
@@ -58,21 +58,21 @@ formatter.match({
   "location": "SaveProfileCardsConfigurationStepDefs.theIsChecked(String)"
 });
 formatter.result({
-  "duration": 124349110,
+  "duration": 1605161961,
   "status": "passed"
 });
 formatter.match({
   "location": "SaveProfileCardsConfigurationStepDefs.theFormIsSubmitted()"
 });
 formatter.result({
-  "duration": 1216603174,
+  "duration": 17851156,
   "status": "passed"
 });
 formatter.match({
   "location": "SaveProfileCardsConfigurationStepDefs.iMRedirectedToTheMainPage()"
 });
 formatter.result({
-  "duration": 8975185,
+  "duration": 31647,
   "status": "passed"
 });
 formatter.background({
@@ -91,7 +91,7 @@ formatter.match({
   "location": "SaveProfileCardsConfigurationStepDefs.iNavigateToTheForm()"
 });
 formatter.result({
-  "duration": 67311113,
+  "duration": 34463824,
   "status": "passed"
 });
 formatter.scenario({
@@ -132,14 +132,14 @@ formatter.match({
   "location": "SaveProfileCardsConfigurationStepDefs.theIsChecked(String)"
 });
 formatter.result({
-  "duration": 110040644,
+  "duration": 12753086,
   "status": "passed"
 });
 formatter.match({
   "location": "SaveProfileCardsConfigurationStepDefs.theFormIsSubmitted()"
 });
 formatter.result({
-  "duration": 77903261,
+  "duration": 8881957,
   "status": "passed"
 });
 formatter.match({});
@@ -168,7 +168,7 @@ formatter.match({
   "location": "SaveProfileCardsConfigurationStepDefs.iNavigateToTheForm()"
 });
 formatter.result({
-  "duration": 192416744,
+  "duration": 22415085,
   "status": "passed"
 });
 formatter.scenario({
@@ -209,14 +209,14 @@ formatter.match({
   "location": "SaveProfileCardsConfigurationStepDefs.theIsChecked(String)"
 });
 formatter.result({
-  "duration": 157264397,
+  "duration": 23287928,
   "status": "passed"
 });
 formatter.match({
   "location": "SaveProfileCardsConfigurationStepDefs.theFormIsSubmitted()"
 });
 formatter.result({
-  "duration": 181186109,
+  "duration": 6224512,
   "status": "passed"
 });
 formatter.match({});
@@ -264,21 +264,21 @@ formatter.match({
   "location": "ShowAllProfileCardsStepDefs.iWantToAccessTheMainPage()"
 });
 formatter.result({
-  "duration": 4523031335,
+  "duration": 503635064,
   "status": "passed"
 });
 formatter.match({
   "location": "ShowAllProfileCardsStepDefs.mainPageIsReached()"
 });
 formatter.result({
-  "duration": 15193282,
+  "duration": 2731002,
   "status": "passed"
 });
 formatter.match({
   "location": "ShowAllProfileCardsStepDefs.iSeeAllProfileCardsInTheirDefaultConfiguration()"
 });
 formatter.result({
-  "duration": 688427583,
+  "duration": 1224176080,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -387,14 +387,14 @@ formatter.match({
   "location": "ShowAllProfileCardsStepDefs.hasInformationInAllExistingFields(String)"
 });
 formatter.result({
-  "duration": 328059783,
+  "duration": 29090772,
   "status": "passed"
 });
 formatter.match({
   "location": "ShowAllProfileCardsStepDefs.mainPageIsReached()"
 });
 formatter.result({
-  "duration": 12389580,
+  "duration": 66286,
   "status": "passed"
 });
 formatter.match({
@@ -407,7 +407,7 @@ formatter.match({
   "location": "ShowAllProfileCardsStepDefs.iSeeAllProfileCardsWithInformationAbout(String)"
 });
 formatter.result({
-  "duration": 149254855,
+  "duration": 30618354,
   "status": "passed"
 });
 formatter.scenario({
@@ -449,14 +449,14 @@ formatter.match({
   "location": "ShowAllProfileCardsStepDefs.hasInformationInAllExistingFields(String)"
 });
 formatter.result({
-  "duration": 285584278,
+  "duration": 100329037,
   "status": "passed"
 });
 formatter.match({
   "location": "ShowAllProfileCardsStepDefs.mainPageIsReached()"
 });
 formatter.result({
-  "duration": 6062858,
+  "duration": 72701,
   "status": "passed"
 });
 formatter.match({
@@ -469,7 +469,7 @@ formatter.match({
   "location": "ShowAllProfileCardsStepDefs.iSeeAllProfileCardsWithInformationAbout(String)"
 });
 formatter.result({
-  "duration": 67517243,
+  "duration": 59801500,
   "status": "passed"
 });
 formatter.scenario({
@@ -511,14 +511,14 @@ formatter.match({
   "location": "ShowAllProfileCardsStepDefs.hasInformationInAllExistingFields(String)"
 });
 formatter.result({
-  "duration": 319687589,
+  "duration": 26595835,
   "status": "passed"
 });
 formatter.match({
   "location": "ShowAllProfileCardsStepDefs.mainPageIsReached()"
 });
 formatter.result({
-  "duration": 10155940,
+  "duration": 70563,
   "status": "passed"
 });
 formatter.match({
@@ -531,7 +531,7 @@ formatter.match({
   "location": "ShowAllProfileCardsStepDefs.iSeeAllProfileCardsWithInformationAbout(String)"
 });
 formatter.result({
-  "duration": 77158714,
+  "duration": 108521188,
   "status": "passed"
 });
 formatter.scenario({
@@ -573,14 +573,14 @@ formatter.match({
   "location": "ShowAllProfileCardsStepDefs.hasInformationInAllExistingFields(String)"
 });
 formatter.result({
-  "duration": 279912724,
+  "duration": 48425889,
   "status": "passed"
 });
 formatter.match({
   "location": "ShowAllProfileCardsStepDefs.mainPageIsReached()"
 });
 formatter.result({
-  "duration": 10446745,
+  "duration": 72701,
   "status": "passed"
 });
 formatter.match({
@@ -593,7 +593,7 @@ formatter.match({
   "location": "ShowAllProfileCardsStepDefs.iSeeAllProfileCardsWithInformationAbout(String)"
 });
 formatter.result({
-  "duration": 103492,
+  "duration": 80399,
   "status": "passed"
 });
 formatter.uri("ShowProfileCardDetails.feature");
@@ -704,7 +704,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 4741468292,
+  "duration": 456602901,
   "status": "passed"
 });
 formatter.match({
@@ -717,7 +717,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 897030196,
+  "duration": 233651195,
   "status": "passed"
 });
 formatter.match({
@@ -730,7 +730,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMRedirectedToTheProfileCard(String)"
 });
 formatter.result({
-  "duration": 9419519,
+  "duration": 127441,
   "status": "passed"
 });
 formatter.scenario({
@@ -766,7 +766,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 124477406,
+  "duration": 15717159,
   "status": "passed"
 });
 formatter.match({
@@ -779,7 +779,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 485032091,
+  "duration": 228372655,
   "status": "passed"
 });
 formatter.match({
@@ -792,7 +792,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMRedirectedToTheProfileCard(String)"
 });
 formatter.result({
-  "duration": 9473831,
+  "duration": 88097,
   "status": "passed"
 });
 formatter.scenario({
@@ -828,7 +828,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 78510103,
+  "duration": 16615662,
   "status": "passed"
 });
 formatter.match({
@@ -841,7 +841,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 334699974,
+  "duration": 227906084,
   "status": "passed"
 });
 formatter.match({
@@ -854,7 +854,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMRedirectedToTheProfileCard(String)"
 });
 formatter.result({
-  "duration": 9144109,
+  "duration": 98788,
   "status": "passed"
 });
 formatter.scenario({
@@ -890,7 +890,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 80814733,
+  "duration": 15050019,
   "status": "passed"
 });
 formatter.match({
@@ -903,7 +903,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 705310101,
+  "duration": 229058185,
   "status": "passed"
 });
 formatter.match({
@@ -916,7 +916,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMRedirectedToTheProfileCard(String)"
 });
 formatter.result({
-  "duration": 12159502,
+  "duration": 122309,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1024,7 +1024,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 74398632,
+  "duration": 21107317,
   "status": "passed"
 });
 formatter.match({
@@ -1037,7 +1037,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 87512658,
+  "duration": 24346800,
   "status": "passed"
 });
 formatter.match({
@@ -1050,7 +1050,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheName(String)"
 });
 formatter.result({
-  "duration": 59470068,
+  "duration": 1024700899,
   "status": "passed"
 });
 formatter.scenario({
@@ -1086,7 +1086,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 82116514,
+  "duration": 10150380,
   "status": "passed"
 });
 formatter.match({
@@ -1099,7 +1099,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 88004461,
+  "duration": 12923721,
   "status": "passed"
 });
 formatter.match({
@@ -1112,7 +1112,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheName(String)"
 });
 formatter.result({
-  "duration": 53916546,
+  "duration": 11527856,
   "status": "passed"
 });
 formatter.scenario({
@@ -1148,7 +1148,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 83021858,
+  "duration": 15921151,
   "status": "passed"
 });
 formatter.match({
@@ -1161,7 +1161,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 88274312,
+  "duration": 8774616,
   "status": "passed"
 });
 formatter.match({
@@ -1174,7 +1174,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheName(String)"
 });
 formatter.result({
-  "duration": 49724676,
+  "duration": 6378895,
   "status": "passed"
 });
 formatter.scenario({
@@ -1210,7 +1210,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 86712089,
+  "duration": 14093355,
   "status": "passed"
 });
 formatter.match({
@@ -1223,7 +1223,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 90718357,
+  "duration": 11728426,
   "status": "passed"
 });
 formatter.match({
@@ -1236,7 +1236,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheName(String)"
 });
 formatter.result({
-  "duration": 53216476,
+  "duration": 7267134,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1344,7 +1344,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 82629272,
+  "duration": 11113887,
   "status": "passed"
 });
 formatter.match({
@@ -1357,7 +1357,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 84385221,
+  "duration": 10602411,
   "status": "passed"
 });
 formatter.match({
@@ -1370,7 +1370,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheShortBio(String)"
 });
 formatter.result({
-  "duration": 70162286,
+  "duration": 7794432,
   "status": "passed"
 });
 formatter.scenario({
@@ -1406,7 +1406,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 89019713,
+  "duration": 12109894,
   "status": "passed"
 });
 formatter.match({
@@ -1419,7 +1419,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 72769696,
+  "duration": 12447313,
   "status": "passed"
 });
 formatter.match({
@@ -1432,7 +1432,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheShortBio(String)"
 });
 formatter.result({
-  "duration": 47582555,
+  "duration": 9480246,
   "status": "passed"
 });
 formatter.scenario({
@@ -1468,7 +1468,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 91093410,
+  "duration": 15333981,
   "status": "passed"
 });
 formatter.match({
@@ -1481,7 +1481,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 118193879,
+  "duration": 10849168,
   "status": "passed"
 });
 formatter.match({
@@ -1494,7 +1494,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheShortBio(String)"
 });
 formatter.result({
-  "duration": 65585527,
+  "duration": 15212955,
   "status": "passed"
 });
 formatter.scenario({
@@ -1530,7 +1530,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 90174808,
+  "duration": 12937833,
   "status": "passed"
 });
 formatter.match({
@@ -1543,7 +1543,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 100798602,
+  "duration": 11802410,
   "status": "passed"
 });
 formatter.match({
@@ -1556,7 +1556,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheShortBio(String)"
 });
 formatter.result({
-  "duration": 58682328,
+  "duration": 11550094,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1664,7 +1664,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 109235798,
+  "duration": 12505047,
   "status": "passed"
 });
 formatter.match({
@@ -1677,7 +1677,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 76849093,
+  "duration": 41136945,
   "status": "passed"
 });
 formatter.match({
@@ -1690,7 +1690,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheEmail(String)"
 });
 formatter.result({
-  "duration": 69241546,
+  "duration": 11082239,
   "status": "passed"
 });
 formatter.scenario({
@@ -1726,7 +1726,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 76602336,
+  "duration": 14226784,
   "status": "passed"
 });
 formatter.match({
@@ -1739,7 +1739,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 81716657,
+  "duration": 16740109,
   "status": "passed"
 });
 formatter.match({
@@ -1752,7 +1752,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheEmail(String)"
 });
 formatter.result({
-  "duration": 38506443,
+  "duration": 8373476,
   "status": "passed"
 });
 formatter.scenario({
@@ -1788,7 +1788,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 102148279,
+  "duration": 10743109,
   "status": "passed"
 });
 formatter.match({
@@ -1801,7 +1801,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 81784226,
+  "duration": 13592999,
   "status": "passed"
 });
 formatter.match({
@@ -1814,7 +1814,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheEmail(String)"
 });
 formatter.result({
-  "duration": 47494457,
+  "duration": 14236620,
   "status": "passed"
 });
 formatter.scenario({
@@ -1850,7 +1850,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 79000623,
+  "duration": 15696204,
   "status": "passed"
 });
 formatter.match({
@@ -1863,7 +1863,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 98909652,
+  "duration": 10499774,
   "status": "passed"
 });
 formatter.match({
@@ -1876,7 +1876,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheEmail(String)"
 });
 formatter.result({
-  "duration": 44327248,
+  "duration": 10482668,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1984,7 +1984,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 71878037,
+  "duration": 12380171,
   "status": "passed"
 });
 formatter.match({
@@ -1997,7 +1997,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 86612446,
+  "duration": 11872117,
   "status": "passed"
 });
 formatter.match({
@@ -2010,7 +2010,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheEducation(String)"
 });
 formatter.result({
-  "duration": 61793943,
+  "duration": 12969051,
   "status": "passed"
 });
 formatter.scenario({
@@ -2046,7 +2046,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 74930207,
+  "duration": 16064415,
   "status": "passed"
 });
 formatter.match({
@@ -2059,7 +2059,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 89220710,
+  "duration": 14237475,
   "status": "passed"
 });
 formatter.match({
@@ -2072,7 +2072,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheEducation(String)"
 });
 formatter.result({
-  "duration": 46816198,
+  "duration": 13445459,
   "status": "passed"
 });
 formatter.scenario({
@@ -2108,7 +2108,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 96787630,
+  "duration": 11907613,
   "status": "passed"
 });
 formatter.match({
@@ -2121,7 +2121,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 100089978,
+  "duration": 12635481,
   "status": "passed"
 });
 formatter.match({
@@ -2134,7 +2134,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheEducation(String)"
 });
 formatter.result({
-  "duration": 48729524,
+  "duration": 15451586,
   "status": "passed"
 });
 formatter.scenario({
@@ -2170,7 +2170,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 83506819,
+  "duration": 10202127,
   "status": "passed"
 });
 formatter.match({
@@ -2183,7 +2183,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 103515063,
+  "duration": 9864707,
   "status": "passed"
 });
 formatter.match({
@@ -2196,7 +2196,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheEducation(String)"
 });
 formatter.result({
-  "duration": 40140510,
+  "duration": 12162067,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -2304,7 +2304,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 120413833,
+  "duration": 29356773,
   "status": "passed"
 });
 formatter.match({
@@ -2317,7 +2317,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 108415129,
+  "duration": 11799844,
   "status": "passed"
 });
 formatter.match({
@@ -2330,7 +2330,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheProjects(String)"
 });
 formatter.result({
-  "duration": 46318407,
+  "duration": 13894924,
   "status": "passed"
 });
 formatter.scenario({
@@ -2366,7 +2366,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 74109537,
+  "duration": 12448596,
   "status": "passed"
 });
 formatter.match({
@@ -2379,7 +2379,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 89410589,
+  "duration": 10056296,
   "status": "passed"
 });
 formatter.match({
@@ -2392,7 +2392,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheProjects(String)"
 });
 formatter.result({
-  "duration": 50252829,
+  "duration": 14250305,
   "status": "passed"
 });
 formatter.scenario({
@@ -2428,7 +2428,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 91031827,
+  "duration": 11673259,
   "status": "passed"
 });
 formatter.match({
@@ -2441,7 +2441,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 94352137,
+  "duration": 13453584,
   "status": "passed"
 });
 formatter.match({});
@@ -2481,7 +2481,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 129085384,
+  "duration": 9439619,
   "status": "passed"
 });
 formatter.match({
@@ -2494,7 +2494,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 88456492,
+  "duration": 7327433,
   "status": "passed"
 });
 formatter.match({
@@ -2507,7 +2507,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheProjects(String)"
 });
 formatter.result({
-  "duration": 45024325,
+  "duration": 11744249,
   "status": "passed"
 });
 formatter.uri("VerifySocialNetworkButton.feature");
@@ -2545,14 +2545,14 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 67838839,
+  "duration": 13482237,
   "status": "passed"
 });
 formatter.match({
   "location": "VerifySocialNetworkStepDefs.iClickSocialNetworkButton()"
 });
 formatter.result({
-  "duration": 2175307997,
+  "duration": 6789444,
   "status": "passed"
 });
 formatter.match({});
