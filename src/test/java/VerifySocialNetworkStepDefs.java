@@ -32,8 +32,8 @@ public class VerifySocialNetworkStepDefs {
         System.out.println("-------------------!!!!!!!!!!!!");
 
         // ("//div/div[2]/div[2]/a[1]")
-        WebElement we = driver.findElement(By.xpath("//a[contains(@href,'tiago.monteiro')"));
-        we.click();
+//        WebElement we = driver.findElement(By.xpath("//a[contains(@href,'tiago.monteiro')"));
+//        we.click();
 
 
         //webelement.getAttribute("https://www.facebook.com/tiago.monteiro.9210");
