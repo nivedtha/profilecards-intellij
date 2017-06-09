@@ -32,7 +32,7 @@ public class ShowAllProfileCardsStepDefs {
         System.setProperty("webdriver.chrome.driver", "drivers\\chromedriver.exe");
         System.setProperty("phantomjs.binary.path", "drivers\\phantomjs.exe");
         if(driver == null) {
-            driver = new ChromeDriver();
+            driver = new HtmlUnitDriver();
         }
 
     }

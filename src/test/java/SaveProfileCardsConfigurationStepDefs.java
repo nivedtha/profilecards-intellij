@@ -8,6 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.htmlunit.HtmlUnitDriver;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -29,7 +30,7 @@ public class SaveProfileCardsConfigurationStepDefs {
         System.setProperty("webdriver.chrome.driver", "drivers\\chromedriver.exe");
         System.setProperty("phantomjs.binary.path", "drivers\\phantomjs.exe"); //
         if (driver == null) {
-            driver = new ChromeDriver();
+            driver = new HtmlUnitDriver();
         }
     }
 
