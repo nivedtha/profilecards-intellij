@@ -3,6 +3,7 @@ import cucumber.api.java.en.When;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 import java.util.logging.Level;
@@ -22,7 +23,7 @@ public class VerifySocialNetworkStepDefs {
         System.setProperty("webdriver.chrome.driver", "drivers\\chromedriver.exe");
         System.setProperty("phantomjs.binary.path", "drivers\\phantomjs.exe"); //
         if (driver == null) {
-            driver = new FirefoxDriver();
+            driver = new ChromeDriver();
         }
     }
 

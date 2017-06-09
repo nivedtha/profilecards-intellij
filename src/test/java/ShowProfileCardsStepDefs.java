@@ -30,18 +30,20 @@ public class ShowProfileCardsStepDefs {
         System.setProperty("webdriver.chrome.driver", "drivers\\chromedriver.exe");
         System.setProperty("phantomjs.binary.path", "drivers\\phantomjs.exe"); //
         if (driver == null) {
-            driver = new FirefoxDriver();
+            driver = new ChromeDriver();
         }
     }
 
     @Given("^I'm in the main page$")
     public void iMInTheMainPage() throws Throwable {
-        driver.get("http://profilecards-myproject.192.168.99.100.nip.io/website/index.html");
+        //driver.get("http://profilecards-myproject.192.168.99.100.nip.io/website/index.html");
+        driver.get("http://profile-cards-app-sq-project.7e14.starter-us-west-2.openshiftapps.com/website/index.html");
     }
 
     @When("^the \"([^\"]*)\" is clicked$")
     public void theIsClicked(String memberName) throws Throwable {
-        String baseURL = "http://profilecards-myproject.192.168.99.100.nip.io/website/";
+        //String baseURL = "http://profilecards-myproject.192.168.99.100.nip.io/website/";
+        String baseURL = "http://profile-cards-app-sq-project.7e14.starter-us-west-2.openshiftapps.com/website/";
 
         if (memberName.startsWith("Carlos")) {
             //driver.findElement(By.xpath("/html/body/div/div[1]/div[1]/h3/a")).click();

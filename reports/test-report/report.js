@@ -22,7 +22,7 @@ formatter.match({
   "location": "SaveProfileCardsConfigurationStepDefs.iNavigateToTheForm()"
 });
 formatter.result({
-  "duration": 27091337354,
+  "duration": 3209904983,
   "status": "passed"
 });
 formatter.scenario({
@@ -58,21 +58,21 @@ formatter.match({
   "location": "SaveProfileCardsConfigurationStepDefs.theIsChecked(String)"
 });
 formatter.result({
-  "duration": 295801487,
+  "duration": 105844935,
   "status": "passed"
 });
 formatter.match({
   "location": "SaveProfileCardsConfigurationStepDefs.theFormIsSubmitted()"
 });
 formatter.result({
-  "duration": 1896394606,
+  "duration": 70750254,
   "status": "passed"
 });
 formatter.match({
   "location": "SaveProfileCardsConfigurationStepDefs.iMRedirectedToTheMainPage()"
 });
 formatter.result({
-  "duration": 36356611,
+  "duration": 227172546,
   "error_message": "junit.framework.ComparisonFailure: expected:\u003c[Profile Card]s\u003e but was:\u003c[Configure Profile]s\u003e\r\n\tat junit.framework.Assert.assertEquals(Assert.java:100)\r\n\tat junit.framework.Assert.assertEquals(Assert.java:107)\r\n\tat junit.framework.TestCase.assertEquals(TestCase.java:269)\r\n\tat SaveProfileCardsConfigurationStepDefs.iMRedirectedToTheMainPage(SaveProfileCardsConfigurationStepDefs.java:57)\r\n\tat ✽.Then I\u0027m redirected to the main page(SaveProfileCardsConfiguration.feature:9)\r\n",
   "status": "failed"
 });
@@ -92,7 +92,7 @@ formatter.match({
   "location": "SaveProfileCardsConfigurationStepDefs.iNavigateToTheForm()"
 });
 formatter.result({
-  "duration": 193896632,
+  "duration": 59903583,
   "status": "passed"
 });
 formatter.scenario({
@@ -133,14 +133,14 @@ formatter.match({
   "location": "SaveProfileCardsConfigurationStepDefs.theIsChecked(String)"
 });
 formatter.result({
-  "duration": 197305409,
+  "duration": 97514265,
   "status": "passed"
 });
 formatter.match({
   "location": "SaveProfileCardsConfigurationStepDefs.theFormIsSubmitted()"
 });
 formatter.result({
-  "duration": 260407264,
+  "duration": 65371140,
   "status": "passed"
 });
 formatter.match({});
@@ -169,7 +169,7 @@ formatter.match({
   "location": "SaveProfileCardsConfigurationStepDefs.iNavigateToTheForm()"
 });
 formatter.result({
-  "duration": 123311250,
+  "duration": 143540064,
   "status": "passed"
 });
 formatter.scenario({
@@ -210,14 +210,14 @@ formatter.match({
   "location": "SaveProfileCardsConfigurationStepDefs.theIsChecked(String)"
 });
 formatter.result({
-  "duration": 218091546,
+  "duration": 107296048,
   "status": "passed"
 });
 formatter.match({
   "location": "SaveProfileCardsConfigurationStepDefs.theFormIsSubmitted()"
 });
 formatter.result({
-  "duration": 279634812,
+  "duration": 68450697,
   "status": "passed"
 });
 formatter.match({});
@@ -265,14 +265,14 @@ formatter.match({
   "location": "ShowAllProfileCardsStepDefs.iWantToAccessTheMainPage()"
 });
 formatter.result({
-  "duration": 8850271682,
+  "duration": 2304680135,
   "status": "passed"
 });
 formatter.match({
   "location": "ShowAllProfileCardsStepDefs.mainPageIsReached()"
 });
 formatter.result({
-  "duration": 31963791,
+  "duration": 10533783,
   "error_message": "junit.framework.ComparisonFailure: expected:\u003c[Profile Card]s\u003e but was:\u003c[Configure Profile]s\u003e\r\n\tat junit.framework.Assert.assertEquals(Assert.java:100)\r\n\tat junit.framework.Assert.assertEquals(Assert.java:107)\r\n\tat junit.framework.TestCase.assertEquals(TestCase.java:269)\r\n\tat ShowAllProfileCardsStepDefs.mainPageIsReached(ShowAllProfileCardsStepDefs.java:45)\r\n\tat ✽.When main page is reached(ShowAllProfileCards.feature:8)\r\n",
   "status": "failed"
 });
@@ -388,14 +388,14 @@ formatter.match({
   "location": "ShowAllProfileCardsStepDefs.hasInformationInAllExistingFields(String)"
 });
 formatter.result({
-  "duration": 213510099,
+  "duration": 70778254,
   "status": "passed"
 });
 formatter.match({
   "location": "ShowAllProfileCardsStepDefs.mainPageIsReached()"
 });
 formatter.result({
-  "duration": 14185599,
+  "duration": 6186225,
   "error_message": "junit.framework.ComparisonFailure: expected:\u003c[Profile Card]s\u003e but was:\u003c[Configure Profile]s\u003e\r\n\tat junit.framework.Assert.assertEquals(Assert.java:100)\r\n\tat junit.framework.Assert.assertEquals(Assert.java:107)\r\n\tat junit.framework.TestCase.assertEquals(TestCase.java:269)\r\n\tat ShowAllProfileCardsStepDefs.mainPageIsReached(ShowAllProfileCardsStepDefs.java:45)\r\n\tat ✽.When main page is reached(ShowAllProfileCards.feature:13)\r\n",
   "status": "failed"
 });
@@ -450,14 +450,14 @@ formatter.match({
   "location": "ShowAllProfileCardsStepDefs.hasInformationInAllExistingFields(String)"
 });
 formatter.result({
-  "duration": 210526695,
+  "duration": 87187594,
   "status": "passed"
 });
 formatter.match({
   "location": "ShowAllProfileCardsStepDefs.mainPageIsReached()"
 });
 formatter.result({
-  "duration": 18488916,
+  "duration": 10961338,
   "error_message": "junit.framework.ComparisonFailure: expected:\u003c[Profile Card]s\u003e but was:\u003c[Configure Profile]s\u003e\r\n\tat junit.framework.Assert.assertEquals(Assert.java:100)\r\n\tat junit.framework.Assert.assertEquals(Assert.java:107)\r\n\tat junit.framework.TestCase.assertEquals(TestCase.java:269)\r\n\tat ShowAllProfileCardsStepDefs.mainPageIsReached(ShowAllProfileCardsStepDefs.java:45)\r\n\tat ✽.When main page is reached(ShowAllProfileCards.feature:13)\r\n",
   "status": "failed"
 });
@@ -512,14 +512,14 @@ formatter.match({
   "location": "ShowAllProfileCardsStepDefs.hasInformationInAllExistingFields(String)"
 });
 formatter.result({
-  "duration": 290525195,
+  "duration": 77101812,
   "status": "passed"
 });
 formatter.match({
   "location": "ShowAllProfileCardsStepDefs.mainPageIsReached()"
 });
 formatter.result({
-  "duration": 16791264,
+  "duration": 4835558,
   "error_message": "junit.framework.ComparisonFailure: expected:\u003c[Profile Card]s\u003e but was:\u003c[Configure Profile]s\u003e\r\n\tat junit.framework.Assert.assertEquals(Assert.java:100)\r\n\tat junit.framework.Assert.assertEquals(Assert.java:107)\r\n\tat junit.framework.TestCase.assertEquals(TestCase.java:269)\r\n\tat ShowAllProfileCardsStepDefs.mainPageIsReached(ShowAllProfileCardsStepDefs.java:45)\r\n\tat ✽.When main page is reached(ShowAllProfileCards.feature:13)\r\n",
   "status": "failed"
 });
@@ -574,14 +574,14 @@ formatter.match({
   "location": "ShowAllProfileCardsStepDefs.hasInformationInAllExistingFields(String)"
 });
 formatter.result({
-  "duration": 194700225,
+  "duration": 96623154,
   "status": "passed"
 });
 formatter.match({
   "location": "ShowAllProfileCardsStepDefs.mainPageIsReached()"
 });
 formatter.result({
-  "duration": 30511067,
+  "duration": 5286669,
   "error_message": "junit.framework.ComparisonFailure: expected:\u003c[Profile Card]s\u003e but was:\u003c[Configure Profile]s\u003e\r\n\tat junit.framework.Assert.assertEquals(Assert.java:100)\r\n\tat junit.framework.Assert.assertEquals(Assert.java:107)\r\n\tat junit.framework.TestCase.assertEquals(TestCase.java:269)\r\n\tat ShowAllProfileCardsStepDefs.mainPageIsReached(ShowAllProfileCardsStepDefs.java:45)\r\n\tat ✽.When main page is reached(ShowAllProfileCards.feature:13)\r\n",
   "status": "failed"
 });
@@ -705,7 +705,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 34600079204,
+  "duration": 4130816947,
   "status": "passed"
 });
 formatter.match({
@@ -718,7 +718,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 433061587,
+  "duration": 175608078,
   "status": "passed"
 });
 formatter.match({
@@ -731,7 +731,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMRedirectedToTheProfileCard(String)"
 });
 formatter.result({
-  "duration": 22434225,
+  "duration": 14533340,
   "status": "passed"
 });
 formatter.scenario({
@@ -767,7 +767,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 391162584,
+  "duration": 306332136,
   "status": "passed"
 });
 formatter.match({
@@ -780,7 +780,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 333674340,
+  "duration": 121201832,
   "status": "passed"
 });
 formatter.match({
@@ -793,7 +793,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMRedirectedToTheProfileCard(String)"
 });
 formatter.result({
-  "duration": 42960998,
+  "duration": 6455558,
   "status": "passed"
 });
 formatter.scenario({
@@ -829,7 +829,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 379262657,
+  "duration": 225784544,
   "status": "passed"
 });
 formatter.match({
@@ -842,7 +842,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 207380168,
+  "duration": 124960500,
   "status": "passed"
 });
 formatter.match({
@@ -855,7 +855,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMRedirectedToTheProfileCard(String)"
 });
 formatter.result({
-  "duration": 24128029,
+  "duration": 9471559,
   "status": "passed"
 });
 formatter.scenario({
@@ -891,7 +891,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 341553891,
+  "duration": 207757870,
   "status": "passed"
 });
 formatter.match({
@@ -904,7 +904,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 364163271,
+  "duration": 121828054,
   "status": "passed"
 });
 formatter.match({
@@ -917,7 +917,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMRedirectedToTheProfileCard(String)"
 });
 formatter.result({
-  "duration": 20236613,
+  "duration": 5432892,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1025,7 +1025,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 439143879,
+  "duration": 217495208,
   "status": "passed"
 });
 formatter.match({
@@ -1038,7 +1038,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 287442666,
+  "duration": 126295612,
   "status": "passed"
 });
 formatter.match({
@@ -1051,7 +1051,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheName(String)"
 });
 formatter.result({
-  "duration": 236241701,
+  "duration": 51114244,
   "status": "passed"
 });
 formatter.scenario({
@@ -1087,7 +1087,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 416369930,
+  "duration": 237932995,
   "status": "passed"
 });
 formatter.match({
@@ -1100,7 +1100,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 337255385,
+  "duration": 125650278,
   "status": "passed"
 });
 formatter.match({
@@ -1113,7 +1113,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheName(String)"
 });
 formatter.result({
-  "duration": 130832793,
+  "duration": 34116904,
   "status": "passed"
 });
 formatter.scenario({
@@ -1149,7 +1149,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 643878443,
+  "duration": 206989870,
   "status": "passed"
 });
 formatter.match({
@@ -1162,7 +1162,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 285277292,
+  "duration": 103183157,
   "status": "passed"
 });
 formatter.match({
@@ -1175,7 +1175,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheName(String)"
 });
 formatter.result({
-  "duration": 120161835,
+  "duration": 32524903,
   "status": "passed"
 });
 formatter.scenario({
@@ -1211,7 +1211,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 544901173,
+  "duration": 205403202,
   "status": "passed"
 });
 formatter.match({
@@ -1224,7 +1224,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 293194378,
+  "duration": 114873385,
   "status": "passed"
 });
 formatter.match({
@@ -1237,7 +1237,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheName(String)"
 });
 formatter.result({
-  "duration": 97997560,
+  "duration": 45371576,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1345,7 +1345,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 690762134,
+  "duration": 194949420,
   "status": "passed"
 });
 formatter.match({
@@ -1358,7 +1358,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 342815101,
+  "duration": 102511601,
   "status": "passed"
 });
 formatter.match({
@@ -1371,7 +1371,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheShortBio(String)"
 });
 formatter.result({
-  "duration": 120511182,
+  "duration": 34774682,
   "status": "passed"
 });
 formatter.scenario({
@@ -1407,7 +1407,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 423440113,
+  "duration": 218197431,
   "status": "passed"
 });
 formatter.match({
@@ -1420,7 +1420,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 254498683,
+  "duration": 118933830,
   "status": "passed"
 });
 formatter.match({
@@ -1433,7 +1433,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheShortBio(String)"
 });
 formatter.result({
-  "duration": 88761041,
+  "duration": 41465352,
   "status": "passed"
 });
 formatter.scenario({
@@ -1469,7 +1469,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 593939651,
+  "duration": 213645872,
   "status": "passed"
 });
 formatter.match({
@@ -1482,7 +1482,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 223128685,
+  "duration": 107442715,
   "status": "passed"
 });
 formatter.match({
@@ -1495,7 +1495,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheShortBio(String)"
 });
 formatter.result({
-  "duration": 88149925,
+  "duration": 34845348,
   "status": "passed"
 });
 formatter.scenario({
@@ -1531,7 +1531,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 397613470,
+  "duration": 222558766,
   "status": "passed"
 });
 formatter.match({
@@ -1544,7 +1544,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 255950926,
+  "duration": 119352053,
   "status": "passed"
 });
 formatter.match({
@@ -1557,7 +1557,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheShortBio(String)"
 });
 formatter.result({
-  "duration": 75466613,
+  "duration": 34969349,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1665,7 +1665,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 422063417,
+  "duration": 224867211,
   "status": "passed"
 });
 formatter.match({
@@ -1678,7 +1678,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 355984898,
+  "duration": 122239165,
   "status": "passed"
 });
 formatter.match({
@@ -1691,7 +1691,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheEmail(String)"
 });
 formatter.result({
-  "duration": 146926806,
+  "duration": 33692015,
   "status": "passed"
 });
 formatter.scenario({
@@ -1727,7 +1727,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 516061292,
+  "duration": 203728091,
   "status": "passed"
 });
 formatter.match({
@@ -1740,7 +1740,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 261048695,
+  "duration": 143310731,
   "status": "passed"
 });
 formatter.match({
@@ -1753,7 +1753,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheEmail(String)"
 });
 formatter.result({
-  "duration": 77853817,
+  "duration": 35120460,
   "status": "passed"
 });
 formatter.scenario({
@@ -1789,7 +1789,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 455391393,
+  "duration": 485501549,
   "status": "passed"
 });
 formatter.match({
@@ -1802,7 +1802,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 392105724,
+  "duration": 108420493,
   "status": "passed"
 });
 formatter.match({
@@ -1815,7 +1815,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheEmail(String)"
 });
 formatter.result({
-  "duration": 89964507,
+  "duration": 44170686,
   "status": "passed"
 });
 formatter.scenario({
@@ -1851,7 +1851,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 372551445,
+  "duration": 224737878,
   "status": "passed"
 });
 formatter.match({
@@ -1864,7 +1864,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 200930245,
+  "duration": 108419604,
   "status": "passed"
 });
 formatter.match({
@@ -1877,7 +1877,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheEmail(String)"
 });
 formatter.result({
-  "duration": 61300263,
+  "duration": 33469348,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1985,7 +1985,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 374002726,
+  "duration": 188756528,
   "status": "passed"
 });
 formatter.match({
@@ -1998,7 +1998,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 185638381,
+  "duration": 111780938,
   "status": "passed"
 });
 formatter.match({
@@ -2011,7 +2011,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheEducation(String)"
 });
 formatter.result({
-  "duration": 69585461,
+  "duration": 31294681,
   "status": "passed"
 });
 formatter.scenario({
@@ -2047,7 +2047,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 324301643,
+  "duration": 211814316,
   "status": "passed"
 });
 formatter.match({
@@ -2060,7 +2060,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 240425203,
+  "duration": 102028045,
   "status": "passed"
 });
 formatter.match({
@@ -2073,7 +2073,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheEducation(String)"
 });
 formatter.result({
-  "duration": 64956856,
+  "duration": 35656460,
   "status": "passed"
 });
 formatter.scenario({
@@ -2109,7 +2109,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 348870445,
+  "duration": 229843214,
   "status": "passed"
 });
 formatter.match({
@@ -2122,7 +2122,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 186352954,
+  "duration": 109492493,
   "status": "passed"
 });
 formatter.match({
@@ -2135,7 +2135,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheEducation(String)"
 });
 formatter.result({
-  "duration": 57966070,
+  "duration": 37608461,
   "status": "passed"
 });
 formatter.scenario({
@@ -2171,7 +2171,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 350921294,
+  "duration": 256626780,
   "status": "passed"
 });
 formatter.match({
@@ -2184,7 +2184,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 324650509,
+  "duration": 157005403,
   "status": "passed"
 });
 formatter.match({
@@ -2197,7 +2197,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheEducation(String)"
 });
 formatter.result({
-  "duration": 101445314,
+  "duration": 39382685,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -2305,7 +2305,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 618958850,
+  "duration": 234268993,
   "status": "passed"
 });
 formatter.match({
@@ -2318,7 +2318,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 655723032,
+  "duration": 114259606,
   "status": "passed"
 });
 formatter.match({
@@ -2331,7 +2331,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheProjects(String)"
 });
 formatter.result({
-  "duration": 139339821,
+  "duration": 42663574,
   "status": "passed"
 });
 formatter.scenario({
@@ -2367,7 +2367,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 708465742,
+  "duration": 252508112,
   "status": "passed"
 });
 formatter.match({
@@ -2380,7 +2380,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 478831795,
+  "duration": 139220507,
   "status": "passed"
 });
 formatter.match({
@@ -2393,7 +2393,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheProjects(String)"
 });
 formatter.result({
-  "duration": 97371045,
+  "duration": 53689357,
   "status": "passed"
 });
 formatter.scenario({
@@ -2429,7 +2429,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 407804678,
+  "duration": 228734769,
   "status": "passed"
 });
 formatter.match({
@@ -2442,7 +2442,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 348178488,
+  "duration": 291826352,
   "status": "passed"
 });
 formatter.match({});
@@ -2482,7 +2482,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 470191957,
+  "duration": 366842830,
   "status": "passed"
 });
 formatter.match({
@@ -2495,7 +2495,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.theIsClicked(String)"
 });
 formatter.result({
-  "duration": 257129852,
+  "duration": 153341401,
   "status": "passed"
 });
 formatter.match({
@@ -2508,7 +2508,7 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iShouldBeAbleToSeeTheProjects(String)"
 });
 formatter.result({
-  "duration": 79470147,
+  "duration": 44949353,
   "status": "passed"
 });
 formatter.uri("VerifySocialNetworkButton.feature");
@@ -2546,15 +2546,15 @@ formatter.match({
   "location": "ShowProfileCardsStepDefs.iMInTheMainPage()"
 });
 formatter.result({
-  "duration": 860176579,
+  "duration": 232132547,
   "status": "passed"
 });
 formatter.match({
   "location": "VerifySocialNetworkStepDefs.iClickSocialNetworkButton()"
 });
-formatterformatter.result({
-  "duration": 1284766052632,
-  "error_message": "java.lang.ExceptionInInitializerError\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat cucumber.runtime.java.DefaultJavaObjectFactory.cacheNewInstance(DefaultJavaObjectFactory.java:41)\r\n\tat cucumber.runtime.java.DefaultJavaObjectFactory.getInstance(DefaultJavaObjectFactory.java:33)\r\n\tat cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:38)\r\n\tat cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:37)\r\n\tat cucumber.runtime.Runtime.runStep(Runtime.java:300)\r\n\tat cucumber.runtime.model.StepContainer.runStep(StepContainer.java:44)\r\n\tat cucumber.runtime.model.StepContainer.runSteps(StepContainer.java:39)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:44)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.junit.runner.JUnitCore.run(JUnitCore.java:137)\r\n\tat com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)\r\n\tat com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:51)\r\n\tat com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)\r\n\tat com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)\r\n\tat ✽.When I click social network button(VerifySocialNetworkButton.feature:8)\r\nCaused by: org.openqa.selenium.SessionNotCreatedException: Unable to create new remote session. desired capabilities \u003d Capabilities [{moz:firefoxOptions\u003d{binary\u003dOptional.empty, args\u003d[], legacy\u003dnull, logLevel\u003dnull, prefs\u003d{}, profile\u003dnull}}], required capabilities \u003d Capabilities [{moz:firefoxOptions\u003d{binary\u003dOptional.empty, args\u003d[], legacy\u003dnull, logLevel\u003dnull, prefs\u003d{}, profile\u003dnull}}]\nBuild info: version: \u00273.3.1\u0027, revision: \u00275234b325d5\u0027, time: \u00272017-03-10 09:10:29 +0000\u0027\nSystem info: host: \u0027APPA-PC\u0027, ip: \u0027192.168.56.1\u0027, os.name: \u0027Windows 7\u0027, os.arch: \u0027amd64\u0027, os.version: \u00276.1\u0027, java.version: \u00271.8.0_131\u0027\nDriver info: driver.version: FirefoxDriver\r\n\tat org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:126)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:141)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:604)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:244)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.\u003cinit\u003e(RemoteWebDriver.java:131)\r\n\tat org.openqa.selenium.firefox.FirefoxDriver.\u003cinit\u003e(FirefoxDriver.java:218)\r\n\tat org.openqa.selenium.firefox.FirefoxDriver.\u003cinit\u003e(FirefoxDriver.java:125)\r\n\tat org.openqa.selenium.firefox.FirefoxDriver.\u003cinit\u003e(FirefoxDriver.java:121)\r\n\tat VerifySocialNetworkStepDefs.\u003cclinit\u003e(VerifySocialNetworkStepDefs.java:25)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat cucumber.runtime.java.DefaultJavaObjectFactory.cacheNewInstance(DefaultJavaObjectFactory.java:41)\r\n\tat cucumber.runtime.java.DefaultJavaObjectFactory.getInstance(DefaultJavaObjectFactory.java:33)\r\n\tat cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:38)\r\n\tat cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:37)\r\n\tat cucumber.runtime.Runtime.runStep(Runtime.java:300)\r\n\tat cucumber.runtime.model.StepContainer.runStep(StepContainer.java:44)\r\n\tat cucumber.runtime.model.StepContainer.runSteps(StepContainer.java:39)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:44)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.junit.runner.JUnitCore.run(JUnitCore.java:137)\r\n\tat com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68)\r\n\tat com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:51)\r\n\tat com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)\r\n\tat com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)\r\n",
+formatter.result({
+  "duration": 3788460350,
+  "error_message": "org.openqa.selenium.NoSuchElementException: Unable to locate element: /html/body/div/div[2]/div[2]/a\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.3.1\u0027, revision: \u00275234b325d5\u0027, time: \u00272017-03-10 09:10:29 +0000\u0027\nSystem info: host: \u0027TIAGO\u0027, ip: \u0027192.168.99.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_102\u0027\nDriver info: org.openqa.selenium.firefox.FirefoxDriver\nCapabilities [{moz:profile\u003dC:\\Users\\Tiago\\AppData\\Local\\Temp\\rust_mozprofile.5rxvLs3QmUV7, rotatable\u003dfalse, timeouts\u003d{implicit\u003d0, pageLoad\u003d300000, script\u003d30000}, pageLoadStrategy\u003dnormal, platform\u003dANY, specificationLevel\u003d0, moz:accessibilityChecks\u003dfalse, acceptInsecureCerts\u003dfalse, browserVersion\u003d53.0.3, platformVersion\u003d10.0, moz:processID\u003d17808, browserName\u003dfirefox, platformName\u003dwindows_nt}]\nSession ID: eab316ad-595f-4145-ab21-5b2184b4d3e2\n*** Element info: {Using\u003dxpath, value\u003d/html/body/div/div[2]/div[2]/a}\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:133)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:99)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:43)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:163)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:604)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:371)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:476)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:361)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)\r\n\tat VerifySocialNetworkStepDefs.iClickSocialNetworkButton(VerifySocialNetworkStepDefs.java:31)\r\n\tat ✽.When I click social network button(VerifySocialNetworkButton.feature:8)\r\n",
   "status": "failed"
 });
 formatter.match({});
