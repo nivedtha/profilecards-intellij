@@ -29,8 +29,13 @@ public class VerifySocialNetworkStepDefs {
 
     @When("^I click social network button$")
     public void iClickSocialNetworkButton() throws Throwable {
-        WebElement webelement = driver.findElement(By.xpath("/html/body/div/div[2]/div[2]/a"));
-        webelement.click();
+        System.out.println("-------------------!!!!!!!!!!!!");
+
+        // ("//div/div[2]/div[2]/a[1]")
+        WebElement we = driver.findElement(By.xpath("//a[contains(@href,'tiago.monteiro')"));
+        we.click();
+
+
         //webelement.getAttribute("https://www.facebook.com/tiago.monteiro.9210");
         //assert
         //driver.findElement(By.className(btn primary)).click();

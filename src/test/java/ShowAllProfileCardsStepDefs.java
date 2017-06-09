@@ -48,46 +48,37 @@ public class ShowAllProfileCardsStepDefs {
 
     @Then("^I see all profile cards in their default configuration$")
     public void iSeeAllProfileCardsInTheirDefaultConfiguration() throws Throwable {
-        // /html/body/div/div[1]/div[1]/img
-        String srcFileCarlos = driver.findElement(By.xpath("//div[1]/div[1]/img")).getAttribute("src");
-        System.out.println("IMG" + srcFileCarlos);
-        assertEquals("imgs/carlos200.png", srcFileCarlos);
-
+        String baseURL = "http://profile-cards-app-sq-project.7e14.starter-us-west-2.openshiftapps.com/";
 
         // /html/body/div/div[1]/div[1]/p
-        assertEquals("Student", driver.findElement(By.xpath("//div[1]/div[1]/p")).getText());
+        // /html/body/div/div[1]/div[2]/p
+        // /html/body/div/div[2]/div[1]/p
+        // /html/body/div/div[2]/div[2]/p
 
+        String srcFileCarlos = driver.findElement(By.xpath("//div[1]/div[1]/img")).getAttribute("src");
+        assertEquals(baseURL + "imgs/carlos200.png", srcFileCarlos);
+        assertEquals("Student", driver.findElement(By.xpath("//div[1]/div[1]/p")).getText());
         assertEquals("Carlos Ferreira", driver.findElement(By.linkText("Carlos Ferreira")).getText());
 
 
-
         String srcFileJoao = driver.findElement(By.xpath("//div[1]/div[2]/img")).getAttribute("src");
-        assertEquals("'@src='imgs/foto2_200x200.png'", srcFileJoao);
-
-        // /html/body/div/div[1]/div[2]/p
+        assertEquals(baseURL + "imgs/foto2_200x200.jpg", srcFileJoao);
         assertEquals("Student", driver.findElement(By.xpath("//div[1]/div[2]/p")).getText());
-
         assertEquals("João Silva", driver.findElement(By.linkText("João Silva")).getText());
 
 
-
-        String srcFileTiago = driver.findElement(By.xpath("//div[2]/div[1]/img")).getAttribute("src");
-        assertEquals("'@src='imgs/foto4_200x200.png'", srcFileTiago);
-
-        // /html/body/div/div[2]/div[1]/p
+        String srcFileNivi = driver.findElement(By.xpath("//div[2]/div[1]/img")).getAttribute("src");
+        assertEquals(baseURL + "imgs/niv.jpg", srcFileNivi);
         assertEquals("Student", driver.findElement(By.xpath("//div[2]/div[1]/p")).getText());
+        assertEquals("Nivedhita Gowthaman", driver.findElement(By.linkText("Nivedhita Gowthaman")).getText());
 
+
+        String srcFileTiago = driver.findElement(By.xpath("//div[2]/div[2]/img")).getAttribute("src");
+        assertEquals(baseURL + "'imgs/foto4_200x200.png", srcFileTiago);
+        assertEquals("Student", driver.findElement(By.xpath("//div[2]/div[2]/p")).getText());
         assertEquals("Tiago Monteiro", driver.findElement(By.linkText("Tiago Monteiro")).getText());
 
 
-
-        String srcFileNivi = driver.findElement(By.xpath("//div[2]/div[2]/img")).getAttribute("src");
-        assertEquals("'@src='imgs/niv.jpg'", srcFileNivi);
-
-        // /html/body/div/div[2]/div[2]/p
-        assertEquals("Student", driver.findElement(By.xpath("//div[2]/div[2]/p")).getText());
-
-        assertEquals("Nivedhita Gowthaman", driver.findElement(By.linkText("Nivedhita Gowthaman")).getText());
 
 //        assertEquals("", driver.findElement(By.xpath("//a[contains(@href, 'https://www.facebook.com')]")).getText());
 //        assertEquals("", driver.findElement(By.xpath("//a[contains(@href, 'https://twitter.com')]")).getText());
@@ -102,40 +93,32 @@ public class ShowAllProfileCardsStepDefs {
 
     @Then("^I see all profile cards with information about \"([^\"]*)\"$")
     public void iSeeAllProfileCardsWithInformationAbout(String memberName) throws Throwable {
+        String website = "http://profile-cards-app-sq-project.7e14.starter-us-west-2.openshiftapps.com/";
+
         if (memberName.startsWith("Carlos")) {
             String srcFileCarlos = driver.findElement(By.xpath("//div[1]/div[1]/img")).getAttribute("src");
-            System.out.println("IMG" + srcFileCarlos);
-            assertEquals("imgs/carlos200.png", srcFileCarlos);
-
-
+            assertEquals(website + "imgs/carlos200.png", srcFileCarlos);
             // /html/body/div/div[1]/div[1]/p
-            assertEquals("Student", driver.findElement(By.xpath("//div[1]/div[1]/p")).getText());
-
+            assertEquals("Student", driver.findElement(By.xpath("//div/div[1]/div[1]/p")).getText());
             assertEquals("Carlos Ferreira", driver.findElement(By.linkText("Carlos Ferreira")).getText());
         } else if (memberName.startsWith("João")) {
             String srcFileJoao = driver.findElement(By.xpath("//div[1]/div[2]/img")).getAttribute("src");
-            assertEquals("'@src='imgs/foto2_200x200.png'", srcFileJoao);
-
+            assertEquals(website + "imgs/foto2_200x200.jpg", srcFileJoao);
             // /html/body/div/div[1]/div[2]/p
-            assertEquals("Student", driver.findElement(By.xpath("//div[1]/div[2]/p")).getText());
-
+            assertEquals("Student", driver.findElement(By.xpath("//div/div[1]/div[2]/p")).getText());
             assertEquals("João Silva", driver.findElement(By.linkText("João Silva")).getText());
         } else if (memberName.startsWith("Nivedhita")) {
-            String srcFileTiago = driver.findElement(By.xpath("//div[2]/div[1]/img")).getAttribute("src");
-            assertEquals("'@src='imgs/foto4_200x200.png'", srcFileTiago);
-
+            String srcFileNivi = driver.findElement(By.xpath("//div[2]/div[1]/img")).getAttribute("src");
+            assertEquals("imgs/niv.jpg", srcFileNivi);
             // /html/body/div/div[2]/div[1]/p
-            assertEquals("Student", driver.findElement(By.xpath("//div[2]/div[1]/p")).getText());
-
-            assertEquals("Tiago Monteiro", driver.findElement(By.linkText("Tiago Monteiro")).getText());
-        } else if (memberName.startsWith("Tiago")) {
-            String srcFileNivi = driver.findElement(By.xpath("//div[2]/div[2]/img")).getAttribute("src");
-            assertEquals("'@src='imgs/niv.jpg'", srcFileNivi);
-
-            // /html/body/div/div[2]/div[2]/p
-            assertEquals("Student", driver.findElement(By.xpath("//div[2]/div[2]/p")).getText());
-
+            assertEquals("Student", driver.findElement(By.xpath("//div/div[2]/div[1]/p")).getText());
             assertEquals("Nivedhita Gowthaman", driver.findElement(By.linkText("Nivedhita Gowthaman")).getText());
+        } else if (memberName.startsWith("Tiago")) {
+            String srcFileTiago = driver.findElement(By.xpath("//div[2]/div[2]/img")).getAttribute("src");
+            assertEquals(website + "imgs/foto4_200x200.png", srcFileTiago);
+            // /html/body/div/div[2]/div[2]/p
+            assertEquals("Student", driver.findElement(By.xpath("//div/div[2]/div[2]/p")).getText());
+            assertEquals("Tiago Monteiro", driver.findElement(By.linkText("Tiago Monteiro")).getText());
         }
     }
 

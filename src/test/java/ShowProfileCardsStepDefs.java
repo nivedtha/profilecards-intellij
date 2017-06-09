@@ -21,9 +21,9 @@ import static junit.framework.TestCase.assertEquals;
  */
 public class ShowProfileCardsStepDefs {
 
-    private static WebDriver driver;
+    private static WebDriver driver = new ChromeDriver();
 
-    static {
+    /*static {
         Logger.getLogger("").setLevel(Level.OFF);
         System.setProperty("webdriver.gecko.driver", "drivers\\geckodriver.exe");
         System.setProperty("webdriver.edge.driver", "drivers\\MicrosoftWebDriver.exe");
@@ -32,7 +32,7 @@ public class ShowProfileCardsStepDefs {
         if (driver == null) {
             driver = new ChromeDriver();
         }
-    }
+    }*/
 
     @Given("^I'm in the main page$")
     public void iMInTheMainPage() throws Throwable {
